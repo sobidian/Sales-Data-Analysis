@@ -2,7 +2,7 @@
 This comprehensive data analysis project explores sales performance and profitability metrics to identify growth opportunities and optimize business operations. The analysis focuses on uncovering sales trends, key customer segments, profitable products, and factors influencing profit margins.
 
 
-## 📈Intractive Dashboard
+## 📈Interactive Dashboard
 <p align="center">
   <img src="https://github.com/sobidian/Sales-Data-Analysis/raw/main/real%20test.gif" alt="دمو پروژه" width="800">
 </p>
